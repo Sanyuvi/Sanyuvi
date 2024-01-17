@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyuvi" alt="sanyuvi" /></a> </p>
 
+- 🔭 I’m currently working on Accenture Solutions
+
+- 🤝 I am currently looking for a job as a Full Stack Developer.
+
 - 👨‍💻 Check out my portfolio to see more of my work [https://lively-dasik-0ecb73.netlify.app/](https://lively-dasik-0ecb73.netlify.app/)
 
 - 📫 How to reach me **santhoshh2197@gmail.com**
